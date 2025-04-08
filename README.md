@@ -1,3 +1,3 @@
 # Cherenkov_Sim
 
-Authors: Zed Fermon, 
+Authors: Zed Fermon, Dominic Pelletier, 
