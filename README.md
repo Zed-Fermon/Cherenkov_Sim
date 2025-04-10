@@ -1,3 +1,3 @@
 # Cherenkov_Sim
 
-Authors: Zed Fermon, Dominic Pelletier, 
+Authors: Zed Fermon, Dominic Pelletier, Siddarth Goyal
