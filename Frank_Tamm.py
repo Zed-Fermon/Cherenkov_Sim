@@ -14,7 +14,6 @@ def frank_tamm(wavelength, beta):
     :param beta: Particle speed as a fraction of the speed of light
     :return: Cherenkov radiation intensity
     """
-    k = 2 * pi / wavelength
     intensity = (2 * math.pi * (1 / 137)) * (1 / wavelength**2) * (1 - 1 / (beta**2 * n_water**2))
     return intensity * (intensity > 0)
 
